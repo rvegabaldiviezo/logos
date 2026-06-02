@@ -6,8 +6,8 @@ Personal logo assets created for internal tools and side projects.
 
 | Logo | Proyecto | Descripción |
 |------|----------|-------------|
-| ![Horus](logos/horus/horus-logo.png) | Horus Agent | Agente de auditoría para Apigee |
-| ![Helpie](logos/helpie/helpie-logo.png) | Helpie | Bot interno de Google Chat |
+| ![Horus](logos/logo_horus_34.png) | Horus Agent | Agente de auditoría para Apigee |
+| ![Helpie](logos/logo_helpie_26.png) | Helpie | Bot interno de Google Chat |
 
 ## License
 
